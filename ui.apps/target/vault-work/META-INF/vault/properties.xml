@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>WKND Sites Project - UI apps</comment>
+<entry key="createdBy">targe</entry>
+<entry key="name">examplewknd-sites-guide.ui.apps</entry>
+<entry key="created">2018-03-10T01:56:17.739-0500</entry>
+<entry key="groupId">org.myorgcom.adobe.aem.guides</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">WKND Sites Project Content Package</entry>
+<entry key="description">UI apps package for WKND Sites Project</entry>
+<entry key="artifactId">examplewknd-sites-guide.ui.apps</entry>
+<entry key="path">/etc/packages/WKND Sites Project Content Package/examplewknd-sites-guide.ui.apps.zip</entry>
+</properties>

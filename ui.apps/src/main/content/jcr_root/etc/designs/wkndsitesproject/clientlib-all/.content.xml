@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:ClientLibraryFolder"
+    categories="[examplewknd-sites-guide.all]"
+    embed="[examplewknd-sites-guide.site,examplewknd-sites-guide.page,examplewknd-sites-guide.topnav,examplewknd-sites-guide.colctrl,examplewknd-sites-guide.textimage]"/>

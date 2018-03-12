@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component immediate="true" name="org.myorgcom.adobe.aem.guides.examplewknd_sites_guide.core.listeners.SimpleResourceListener">
+        <implementation class="org.myorgcom.adobe.aem.guides.examplewknd_sites_guide.core.listeners.SimpleResourceListener"/>
+        <service servicefactory="false">
+            <provide interface="org.osgi.service.event.EventHandler"/>
+        </service>
+        <property name="event.topics" value="org/apache/sling/api/resource/Resource/*"/>
+        <property name="service.vendor" value="Adobe"/>
+        <property name="service.pid" value="org.myorgcom.adobe.aem.guides.examplewknd_sites_guide.core.listeners.SimpleResourceListener"/>
+    </scr:component>
+</components>
